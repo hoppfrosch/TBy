@@ -48,7 +48,7 @@ CallStack(deepness :=100, getContents := true) {
 	===
 
 	Credits:
-	* Author deo in <https://autohotkey.com/board/topic/76062-ahk-l-how-to-get-callstack-solution/>
+	* Original: <deo: https://autohotkey.com/board/topic/76062-ahk-l-how-to-get-callstack-solution/>
 	*/
 
 	global stack

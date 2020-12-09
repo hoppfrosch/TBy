@@ -1,21 +1,20 @@
 #include %A_LineFile%\..
 #Include TBy\CallStack.ahk
 
-
-;#include Wy\ScreenSavy.ahk
-;#include Wy\Mousy.ahk
-;#include Wy\Mony.ahk
-;#include Wy\MultiMony.ahk
-
 /*
 Title: TBy
-	
+
 TBy (Toolboxy) provides a heterogeneous collection of functions and classes.
-	
-Following support functionality is provided:
-	
+
+This file only provides version number and include all available toolbox modules. You have not to use this file - you may also
+only include the modules you need.
+
+Following modules are included:
+
 - <CallStack> - Gets the current call stack
-		
+- <ClassHelper> - Generic support functions for AHK-classes
+- <RunOrActivate> - Starts a program or activates the program if its already running
+
 Authors:
 <hoppfrosch at hoppfrosch@gmx.de>: Original
 
@@ -37,23 +36,7 @@ SOFTWARE.
 */
 
 release_version() {
-	return "0.1.0"
+	return "0.1.1"
 }
 
-class TBy {
-	; ******************************************************************************************************************************************
-	/*
-	Class: TBy
-		Collection of heterogeneous functions and classes
-
-	Authors:
-	<hoppfrosch at hoppfrosch@gmx.de>: Original
-	*/
-	_version := "0.1.0"
-	__New()  {
-	}
-	
-	__Delete() {
-	}
-
-} ; End of Class TBy
+; End of Module TBy

@@ -9,7 +9,7 @@ Format: 2.1
 # ------------------------------------------------------------------------
 
 Title: TBy
-Subtitle: Version 0.1.0
+Subtitle: Version 0.1.1
 
 Copyright: ? 2020, Johannes Kilian, MIT License
 
