@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:RunOrActivate.ahk","RunOrActivate.ahk");NDSummary.OnSummaryLoaded("File:RunOrActivate.ahk",[["AutoHotKey","AutoHotKey"]],[["Functions","Function"],["Groups","Group"]],[[1,0,1,"Functions","Functions"],[2,0,0,"RunOrActivate","RunOrActivate"]]);

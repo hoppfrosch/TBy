@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("run",["Function"],[["RunOrActivate",,[[,,,,0,"File:RunOrActivate.ahk:RunOrActivate"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("new",["Function"],[["newFromJSON",,[[,,,,0,"File:ClassHelper.ahk:newFromJSON"]]],["newFromString",,[[,,,,0,"File:ClassHelper.ahk:newFromString"]]]]);

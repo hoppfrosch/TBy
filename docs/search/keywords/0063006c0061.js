@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cla",["Section"],[["ClassHelper",,[[,,,,0,"File:ClassHelper.ahk:ClassHelper"]]]]);

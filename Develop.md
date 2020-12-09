@@ -6,11 +6,13 @@
 
 ## Building the Documentation
 
-Go into folder *_build* and run script *mkDoc.ahkÜ
+Go into folder *_build* and run script *mkDoc.ahk*
 
 ## Auto-Build documentation on commit
 
-You can use git hooks to build the distribution and documentation files on the fly: on each commit those files can be generated via git hook and be added to the current commit. To enable this you have to add the following files/hooks to your folder *.git/hooks*:
+You can use git hooks to build the distribution and documentation files on the fly: on each commit those files can be generated via git hook and be added to the current commit. Doing this, your documentation will always be up-to-date with your current sourcecode.
+
+To enable this you have to add the following files/hooks to your folder *.git/hooks*:
 
 1.) Filename *pre-commit* 
 Contents;
@@ -21,7 +23,7 @@ touch .commit
 exit
 ```
 
-2.) Filename *pre-commit* 
+2.) Filename *post-commit* 
 Contents;
 ```bash
 #!/bin/sh
@@ -34,7 +36,6 @@ if [ -a .commit ]
 	./autohotkey.exe mkDoc.ahk
 	popd
     git add docs
-	git add lib
     git commit --amend -C HEAD --no-verify
 fi
 exit
