@@ -49,6 +49,9 @@ CallStack(deepness :=100, getContents := true) {
 
 	Credits:
 	* Original: <deo: https://autohotkey.com/board/topic/76062-ahk-l-how-to-get-callstack-solution/>
+
+	License:
+	<MIT License: https://opensource.org/licenses/MIT> - Copyright (c) 2020 Johannes Kilian
 	*/
 
 	global stack

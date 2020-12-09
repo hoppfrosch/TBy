@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:00-Overview.txt","00-Overview.txt");NDSummary.OnSummaryLoaded("File:00-Overview.txt",[["Text File","TextFile"]],[["Groups","Group"],["Information","Information"],["Sections","Section"]],[[12,0,2,"TBy","TBy"],[13,0,0,"Information","Information"],[14,0,1,"Authors","Authors"],[15,0,1,"License","License"]]);

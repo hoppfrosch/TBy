@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("lic",["Information"],[["License",,[[,,,,0,"File:ClassHelper.ahk:License"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("lic",["Information"],[["License",,[[,,"AutoHotKey",,0,"File:ClassHelper.ahk:License"],[,,"Text File",,0,"File:00-Overview.txt:License"]]]]);

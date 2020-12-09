@@ -9,7 +9,7 @@ Format: 2.1
 # ------------------------------------------------------------------------
 
 Title: TBy
-Subtitle: Version 0.1.1
+Subtitle: Version 0.1.0
 
 Copyright: ? 2020, Johannes Kilian, MIT License
 
@@ -103,7 +103,6 @@ Source Folder: ..\..\lib\TBy
 # ------------------------------------------------------------------------
 
 HTML Output Folder: ..\..\docs
-
 
 # This is where you specify what kind of documentation you want Natural Docs
 # to build and where it should be put.  If you use any of these options on the

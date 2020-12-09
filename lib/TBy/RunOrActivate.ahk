@@ -16,6 +16,9 @@ runOrActivate(Target, WinTitle := "", ShowTrayTip := false) {
 
 	Credits:
 	* Original: <deanhill1971: https://autohotkey.com/board/topic/7129-run-a-program-or-switch-to-an-already-running-instance/#entry43438>
+
+	License:
+	<MIT License: https://opensource.org/licenses/MIT> - Copyright (c) 2020 Johannes Kilia
 	*/
 
 	; Get the filename without a path
